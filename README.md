@@ -40,7 +40,7 @@ GitHub repository contains the following
     - The Exercise Folder contains Jupyter notebook for
         - 01_statistics_exercise.ipynb 
         - 02-models_exercise.ipynb
-        - 
+        - 03_parameters_exercise.ipynb
 - 1.4 Anomaly_detection.ipynb
     - Jupyter notebook for Anomaly Detection using Keras
 - 1.5 Version Control
