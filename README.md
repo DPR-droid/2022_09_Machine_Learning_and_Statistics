@@ -65,7 +65,7 @@ Coursework Folder contains Jupyter notebook from Ian McLoughlin github.
 
 
 # 3. Exercise Folder
-This README contains an overview of the two notebooks. The Jupyter notebook contains the main body of work and lists all references used in the assignment.
+This README contains an overview of the XXX notebooks. The Jupyter notebook contains the main body of work and lists all references used in the assignment.
 
 - 3.1 About the Notebooks
 - 3.2 
