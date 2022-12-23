@@ -187,7 +187,7 @@ To try this on your PC you require the following:
 
 
 # 5. Acknowledgement
-Lecturer Ian McLoughlin Fundamentals of Data Analysis GMIT
+Lecturer Ian McLoughlin Machine Learning and Statistics ATU
 
 Family and friends for their support
 

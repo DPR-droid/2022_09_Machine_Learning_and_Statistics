@@ -5,3 +5,10 @@ math
 matplotlib
 tensorflow
 os
+itertools
+statsmodels
+seaborn
+random
+matplotlib
+mpl_toolkits
+tensorflow
