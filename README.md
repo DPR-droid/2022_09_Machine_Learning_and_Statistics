@@ -231,9 +231,9 @@ Family and friends for their support
 
 [19] N.d.-b). Statisticsbyjim.com. Retrieved December 17, 2022, from https://statisticsbyjim.com/glossary/significance-level/
 
-[20] (N.d.-c). Retrieved December 17, 2022, from http://ttps://towardsdatascience.com/fishers-exact-test-from-scratch-with-python-2b907f29e593
+[20] (N.d.-c). Retrieved December 17, 2022, from http://towardsdatascience.com/fishers-exact-test-from-scratch-with-python-2b907f29e593
 
-[21] N.d.-d). Retrieved December 17, 2022, from http://ttps://www.hmhco.com/blog/teaching-absolute-value-of-a-number-in-math
+[21] N.d.-d). Retrieved December 17, 2022, from http://www.hmhco.com/blog/teaching-absolute-value-of-a-number-in-math
 
 [22] (N.d.-e). Bradthiessen.com. Retrieved December 17, 2022, from https://www.bradthiessen.com/html5/docs/ols.pdf
 
